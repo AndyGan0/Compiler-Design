@@ -16,10 +16,10 @@ Designed a string generator using the following grammar rules: <br>
 #  Project 2
 Language: C++ <br>
 Designed a top-down parser using the following grammar rules: <br>
-<Ε>::=(<Υ>) <br>
-<Υ>::=<Α><Β> <br>
-<Α>::=ν|<Ε> <br>
-<Β>::=-<Υ>|+<Υ>|ε <br>
+S→(Χ)<br>
+Χ→ΥΖ<br>
+Υ→α | β | S<br>
+Ζ→*Χ | -Χ |+Χ| ε <br>
 
 <br><br><br>
 #  Project 3
