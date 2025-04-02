@@ -6,7 +6,7 @@ Language: C++ & Flex
 
 #  Project 1
 Language: C++ <br>
-Designed a string generator using the following grammar rules:
+Designed a string generator using the following grammar rules: <br>
 <Ε>::=(<Υ>) <br>
 <Υ>::=<Α><Β> <br>
 <Α>::=ν|<Ε> <br>
@@ -15,7 +15,7 @@ Designed a string generator using the following grammar rules:
 <br><br><br>
 #  Project 2
 Language: C++ <br>
-Designed a top-down parser using the following grammar rules:
+Designed a top-down parser using the following grammar rules: <br>
 <Ε>::=(<Υ>) <br>
 <Υ>::=<Α><Β> <br>
 <Α>::=ν|<Ε> <br>
